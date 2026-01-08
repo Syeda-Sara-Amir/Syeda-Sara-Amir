@@ -1,64 +1,76 @@
-👋 Hi, I’m Syeda Sara Amir
+## 👋 Hi, I’m Syeda Sara Amir
 
-I’m a student developer interested in robotics, embedded systems, game development, and cybersecurity.
-I build hands-on projects using both hardware and software to develop a strong understanding of how code interacts with computers, microcontrollers, and networks.
-My focus is on practical learning, system-level thinking, and writing logic-driven programs that reflect real-world behavior.
+I’m a **student developer** with interests in **robotics, embedded systems, game development, and cybersecurity**. I focus on building hands-on projects that help me understand how software interacts with hardware, networks, and computer systems at a deeper level.
 
-🛠️ Technical Skills
-Programming:
-  Java — object-oriented design, logic-heavy programs, terminal-based applications
-  C++ — system-level programming, embedded logic, performance-focused code
+I enjoy working close to the system — learning how code executes, how devices communicate, and how logical decisions turn into real behavior.
 
-Embedded Systems:
-  Arduino & ESP32
-    Working with:
-      sensors and peripherals
-      microcontroller I/O
-      basic wireless communication
-    
-Game & Logic Development:
-  Designing logic-based games that emphasize:
-    algorithms
-    state management
-    problem decomposition
-    
-Cybersecurity & Networking (Foundational):
-  Networking fundamentals
-  Bluetooth & BLE (Bluetooth Low Energy) basics
-  Understanding wireless communication and introductory exploitation concepts (for defensive learning)
+---
 
-📌 Selected Project Areas
+## 🛠️ Technical Skills
 
-🤖 Embedded Projects
-Building Arduino and ESP32 projects to understand how software controls hardware and executes instructions.
+### Programming Languages
+- **Java** — object-oriented programming, logic-based applications, problem-solving
+- **C++** — system-level programming, embedded logic, performance-focused development
 
-🎮 Game Development
-Logic-driven games (e.g., detective-style games) designed to strengthen algorithmic thinking and system design.
+### Embedded Systems
+- **Arduino & ESP32**
+- Working with:
+  - microcontroller I/O  
+  - sensors and peripherals  
+  - basic wireless communication  
 
-🧩 Problem-Solving Programs
-Rubik’s Cube–related programs that explore complex logic, state transitions, and computational thinking.
+### Game & Logic Development
+- Logic-driven game design
+- Algorithmic thinking and state management
+- Puzzle and system-based programs
 
-🔐 Cybersecurity Learning Projects
-Exploring how networks and wireless protocols work and where security weaknesses may arise.
+### Cybersecurity & Networking (Foundational)
+- Networking fundamentals
+- Bluetooth & **BLE (Bluetooth Low Energy)** basics
+- Understanding wireless communication and introductory security concepts
 
-🎯 What I Bring
+---
 
-Strong problem-solving mindset
-Willingness to learn complex systems from the ground up
-Ability to work across hardware, software, and security concepts
-Projects that show how I think, not just what I know
+## 📌 Projects & Learning Focus
 
-🌱 Currently Learning
+- 🤖 **Embedded Systems Projects**  
+  Building Arduino and ESP32 projects to understand how microcontrollers execute instructions and interact with hardware.
 
-Embedded systems internals
-Wireless networking & BLE security basics
-Algorithm design through games and puzzles
-System-level understanding of program execution
+- 🎮 **Game Development**  
+  Developing logic-based games such as detective-style games to strengthen system design and algorithmic thinking.
 
-🤝 Open To
+- 🧩 **Problem-Solving Programs**  
+  Creating Rubik’s Cube–related programs that explore complex logic, state transitions, and computational problem-solving.
 
-Internships (software, embedded, cybersecurity)
-Entry-level or student developer opportunities
-Technical mentorship and collaboration
+- 🔐 **Cybersecurity Learning Projects**  
+  Exploring how networks and wireless protocols work and identifying potential security weaknesses for defensive understanding.
 
-⭐ I’m actively building and improving — feel free to explore my repositories and reach out.
+---
+
+## 🎯 What I Bring
+
+- Strong problem-solving skills
+- Curiosity-driven learning approach
+- Ability to work across hardware and software
+- Solid fundamentals with a focus on system-level understanding
+
+---
+
+## 🌱 Currently Learning
+
+- Embedded systems internals
+- Wireless networking and BLE security basics
+- Algorithm design through games and puzzles
+- Computer system and network behavior
+
+---
+
+## 🤝 Open To
+
+- Internships (software, embedded, cybersecurity)
+- Student and entry-level developer opportunities
+- Technical mentorship and collaboration
+
+---
+
+⭐ Feel free to explore my repositories — each project reflects my learning and growth.
