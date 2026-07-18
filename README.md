@@ -48,6 +48,6 @@ me realising i haven't left my house in 6 days
 
 <div align="center">
 
-[medium](https://medium.com/@ssara.amir.08) • [linkedin](www.linkedin.com/in/syeda-sara-amir-22297b36a)
+[medium](https://medium.com/@ssara.amir.08) • [linkedin](www.linkedin.com/in/syeda-sara-amir)
 
 </div>
