@@ -44,10 +44,4 @@ also frogs are extremely cute and i will not be taking questions. You can find m
 
 me realising i haven't left my house in 6 days
 
----
 
-<div align="center">
-
-[medium](https://medium.com/@ssara.amir.08) • [linkedin](www.linkedin.com/in/syeda-sara-amir)
-
-</div>
