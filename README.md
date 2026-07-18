@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=a8d8a8&center=true&vCenter=true&width=600&lines=fancy+seeing+you+here+%F0%9F%90%B8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=a8d8a8&center=true&vCenter=true&width=600&lines=Fancy+seeing+you+here!+%F0%9F%90%B8" alt="Typing SVG" />
 
 </div>
 
@@ -8,7 +8,9 @@
 
 hi, i'm sara
 
-SE student in karachi. locked in after god knows how long — building hardware at a startup, learning ml, writing about it on medium so other confused students don't suffer alone.
+SE student in karachi. locked in after god knows how long — building hardware at a startup, learning ML, writing about it on medium cause i feel like it hehe.
+
+Used to be really into java and banking systems. built a DSA project. turns out everyone builds that exact same project. moving on...
 
 got picked by a professor to fix how students submit assignments on github. small win. i'll take it.
 
@@ -18,7 +20,7 @@ Shostakovich keeps me company when i work. he knows too much.
 
 [Waltz No. 2](https://youtu.be/mmCnQDUSO4I?si=Lc7ZNu8PVMBMpkd6)
 
-also frogs are extremely cute and i will not be taking questions.
+also frogs are extremely cute and i will not be taking questions. You can find my Frog project here :)
 
 ---
 
@@ -38,8 +40,14 @@ also frogs are extremely cute and i will not be taking questions.
 ---
 
 <div align="center">
+<img src="frog.jpg" width="300" alt="frog meme"/>
+
+me realising i haven't left my house in 6 days
+
+---
+
+<div align="center">
 
 [medium](https://medium.com/@ssara.amir.08) • [linkedin](www.linkedin.com/in/syeda-sara-amir-22297b36a)
 
 </div>
-
