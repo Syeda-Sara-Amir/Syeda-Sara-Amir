@@ -20,7 +20,6 @@ Shostakovich keeps me company when i work. he knows too much.
 
 [Waltz No. 2](https://youtu.be/mmCnQDUSO4I?si=Lc7ZNu8PVMBMpkd6)
 
-also frogs are extremely cute and i will not be taking questions. You can find my Frog project here :)
 
 ---
 
