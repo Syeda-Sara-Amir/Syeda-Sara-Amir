@@ -12,7 +12,7 @@ SE student in karachi. locked in after god knows how long — building hardware 
 
 Used to be really into java and banking systems. built a DSA project. turns out everyone builds that exact same project. moving on...
 
-got picked by a professor to fix how students submit assignments on github. small win. i'll take it.
+got picked by a professor to fix how students submit assignments on github.
 
 not much yet but working on it.
 
