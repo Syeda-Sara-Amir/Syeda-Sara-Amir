@@ -8,13 +8,11 @@
 
 hi, i'm sara
 
-SE student in karachi. locked in after god knows how long — building hardware at a startup, learning ML, writing about it on medium cause i feel like it hehe.
+SE student in karachi. locked in after god knows how long. building Lab Instruments at a startup, learning ML, writing about it on medium cause i feel like it hehe.
 
-Used to be really into java and banking systems. built a DSA project. turns out everyone builds that exact same project. moving on...
+Used to be really into java and banking systems. built a DSA project - turns out everyone builds that exact same project. moving on...
 
 got picked by a professor to fix how students submit assignments on github.
-
-not much yet but working on it.
 
 Shostakovich keeps me company when i work. he knows too much.
 
